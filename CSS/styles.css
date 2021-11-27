@@ -1,0 +1,45 @@
+body {
+  background-color: #142F43;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  
+}
+
+li {
+  color: aliceblue;
+}
+
+ul {
+  color: aliceblue;
+}
+
+table {
+  color: aliceblue;
+}
+
+p {
+  color: aliceblue;
+}
+
+form {
+  color: aliceblue;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #D0CAB2;
+  border-width: 10px;
+  width: 20%;
+}
+
+img {
+  height: 250px;
+}
+
+h1{
+  color: #D0CAB2;
+}
+h3 {
+  color: #D0CAB2;
+}
+
